@@ -18,8 +18,7 @@ A sleek and interactive web application to monitor, analyze, and compare real-ti
 
 ## 🌐 Hosted Link
 
-Try the app live here: [Live Demo Link](#)  
-*_(Replace the `#` with your actual deployment link)_*
+Try the app live here: [Live Demo Link](https://stock-tacker-js.vercel.app/)  
 
 ---
 
